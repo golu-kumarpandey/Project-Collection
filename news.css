@@ -1,0 +1,30 @@
+.big-container{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/arvrbg.png");
+    height: 100vh;
+    background-size: cover;
+}
+.card-container{
+    padding: 10px;
+    text-align: center;
+    background-color: #ffff;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+ .btn1{
+    font-weight: bold;
+    border-radius: 10px;
+   
+}
+.btn2{
+   font-weight: bold;
+   border-radius: 10px;
+} 
+.head{
+    color: #1281e9;
+    font-family: Roboto;
+}
+.para{
+    color: #323f4b;
+    font-family: Roboto;
+
+}

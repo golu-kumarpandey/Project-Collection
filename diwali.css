@@ -1,0 +1,154 @@
+.section{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/diwali-bg.png");
+    height: 40vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-family: "Roboto";
+    
+    
+    
+}
+
+.mainheading{
+    
+    color: aliceblue;
+   
+   font-style: italic;
+    text-align: center;
+    font-weight: bold;
+
+  
+    
+}
+.buttonsection{
+    background-color: skyblue;
+   text-align: center;
+   padding: 10px;
+ 
+    
+   
+
+}
+.cardcontainer{
+    text-align: center;
+    width: 100vw;
+    margin: 10px;
+    padding:10px;
+    
+    border-radius: 9px;
+    
+    background-color: aliceblue;
+
+}
+.btn{
+    font-weight: 500;
+}
+
+.paracontainer{
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: underline;
+    font-style: italic;
+}
+.second-container{
+    display: flex;
+    flex-direction: row;
+}
+
+@media screen and (max-width: 600px) {
+    .section{
+        background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/diwali-bg.png");
+        height: 40vh;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        font-family: "Roboto";
+        
+        
+        
+    }
+    
+    .mainheading{
+        
+        color: aliceblue;
+       
+       font-style: italic;
+        text-align: center;
+        font-weight: bold;
+        font-size:30px;
+    
+      
+        
+    }
+    .buttonsection{
+        background-color: skyblue;
+       text-align: center;
+       padding: 10px;
+     
+        
+       
+    
+    }
+    .cardcontainer{
+        text-align: center;
+        width: 100%;
+        margin: 15px;
+        padding:10px;
+        
+        border-radius: 9px;
+        
+        background-color: aliceblue;
+    
+    }
+    .btn{
+        font-weight: 500;
+    }
+    
+    .paracontainer{
+        font-size: 20px;
+        font-weight: bold;
+        text-decoration: underline;
+        font-style: italic;
+    }
+    .second-container{
+        display: flex;
+        flex-direction:column;
+        align-items: center;
+        /* justify-content: center; */
+      
+    }
+  }
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 
+
+.imagecontainer{
+    height: 140px;
+    
+}
+
+.headingcontainer{
+    font-size: 30px;
+    font-style: italic;
+}
+
+  */
